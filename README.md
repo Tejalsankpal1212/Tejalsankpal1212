@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android dev and web dev.Always ready to learn new technologies.
 - 🌱 I’m currently pursuing my masters in computer application.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at Tejalsandeepsankpal2001@gmail.com
+- 📫 You can reach me at Sankpal.tejal1212@gmail.com
 
 <!---
 Tejalsankpal1212/Tejalsankpal1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
